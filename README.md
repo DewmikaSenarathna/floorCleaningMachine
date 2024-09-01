@@ -20,7 +20,7 @@ Environmentally Conscious: Prioritizes sustainability without compromising perfo
 
 💻 This project was a fantastic opportunity to apply my skills in Arduino programming, mobile app development, and sustainable engineering. I’m proud of our team’s achievement and excited about the potential impact of this machine.
 
-🔗 Check out the full project details: [Link to your project or portfolio]
+🔗 Check out the full project details: https://github.com/DewmikaSenarathna/floorCleaningMachine
 
 I’d love to hear your thoughts and feedback as we continue to explore innovative solutions in engineering! 🌟
 
